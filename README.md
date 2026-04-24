@@ -5,7 +5,7 @@
 ### 팀원 목록
 
 - 김두종
-  - [페이지](https://wallet-guardian.site)
+  - [페이지](https://tuchongkim.github.io/)
 
 - 김상학
   - [페이지](https://sanghk32.github.io/githubExample/)

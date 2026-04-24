@@ -21,3 +21,4 @@
 - 메인페이지 레이아웃 구성
 - 이슈 및 PR 템플릿 등록
 - husky & eslint & prettier 설정
+- merge 2명이상 approval test

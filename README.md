@@ -14,7 +14,7 @@
   - [페이지](https://wallet-guardian.site)
 
 - 장예연
-  - [페이지](https://wallet-guardian.site)
+  - [페이지](https://sudpdj124.github.io/)
 
 ### 진행한 업무
 

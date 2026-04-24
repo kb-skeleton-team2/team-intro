@@ -8,7 +8,7 @@
   - [페이지](https://wallet-guardian.site)
 
 - 김상학
-  - [페이지](https://wallet-guardian.site)
+  - [페이지](https://sanghk32.github.io/githubExample/)
 
 - 전진명 !!
   - [페이지](https://jnmyng.github.io/my-website/)

@@ -11,8 +11,8 @@
   - [페이지](https://wallet-guardian.site)
 
 - 전진명
-  - [페이지](https://wallet-guardian.site)
-
+  - [페이지](https://jnmyng.github.io/my-website/)
+    g
 - 장예연
   - [페이지](https://sudpdj124.github.io/)
 

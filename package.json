@@ -1,0 +1,40 @@
+{
+  "name": "team-intro",
+  "version": "1.0.0",
+  "description": "- 김두종",
+  "homepage": "https://github.com/kb-skeleton-team2/team-intro#readme",
+  "bugs": {
+    "url": "https://github.com/kb-skeleton-team2/team-intro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb-skeleton-team2/team-intro.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.5.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.3"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "**/*.{html,css,json,md}": [
+      "prettier --write"
+    ]
+  }
+}
